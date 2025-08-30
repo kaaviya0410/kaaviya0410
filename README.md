@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaaviya0410&label=Profile%20views&color=0e75b6&style=flat" alt="kaaviya0410" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaaviya0410" alt="kaaviya0410" /></a> </p>
-
 - 🔭 I’m currently working on **- Learning advanced SQL & Power BI through case studies**
 
 - 🌱 I’m currently learning **SQL (Intermediate–Advanced) - Power BI for business insights - Python for Data Analysis (Pandas, NumPy, Matplotlib)**
@@ -40,7 +38,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kaaviya-murugan-6209232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kaaviya-murugan-6209232" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/http://linkedin.com/in/kaaviyamurugan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://linkedin.com/in/kaaviyamurugan" height="30" width="40" /></a>
 <a href="https://instagram.com/_kaaviyamurugan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_kaaviyamurugan_" height="30" width="40" /></a>
 </p>
 
