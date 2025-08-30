@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋 I am Kaaviya M
+A passionate business analyst/Data Analyst from India
 
 <!--
 **kaaviya0410/kaaviya0410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
